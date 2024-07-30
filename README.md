@@ -21,4 +21,6 @@
 **Achievements:**
 - Consolation Prize 🎖️: 2022 World Robot Olympiad
 
+[![duongnguyen-dev's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=duongnguyen2911&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
+
 ![duongnguyen-dev's Stats](https://github-readme-stats.vercel.app/api?username=duongnguyen-dev&theme=default&show_icons=true&hide_border=false&count_private=true) ![duongnguyen-dev's Stats](https://streak-stats.demolab.com/?user=duongnguyen-dev)
