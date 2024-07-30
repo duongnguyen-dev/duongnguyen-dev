@@ -1,6 +1,6 @@
 ## 👋 Hi!, I'm Duong | AI Engineer | Software Egnineer.
 
-> **Always stay curious about the AI World.**
+> **Always stay curious about the field of AI.**
 
 ![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Javascript-ffd500?style=flat-square&logo=javascript&logoColor=fff)
