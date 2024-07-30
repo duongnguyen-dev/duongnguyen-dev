@@ -10,10 +10,15 @@
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square)
 <img src="https://komarev.com/ghpvc/?username=duongnguyen-dev"> 
 
-- **Skills:** AI (Tensorflow), Computer Vision (OpenCV), NLP (RAG, Prompt Engineering), AI Web & App Development.
+- **Skills:** AI (Tensorflow), Computer Vision (OpenCV), NLP (RAG, Prompt Engineering), Web & App Development (NestJS, ReactJS).
 - **Developer of** [Neural Research Lab](https://www.nrl.ai/) - AI & Open Source Team.
 - **AI & Product Developer of** [CareerAI](https://www.careerai.me/) - AI for your career, Resume review, Mock interview, Career Plan.
 - **LinkedIn:** [duongnguyen-dev](https://www.linkedin.com/in/duong-nguyen-138174233/).
 
 **Open Source Projects:**
-- 
+- [WhisBot](https://github.com/duongnguyen-dev/WhisBot) -  🤖 Your own AI Voice Assistant  
+
+**Achievements:**
+- Consolation Prize 🎖️: 2022 World Robot Olympiad
+
+![duongnguyen-dev's Stats](https://github-readme-stats.vercel.app/api?username=duongnguyen-dev&theme=default&show_icons=true&hide_border=false&count_private=true) ![duongnguyen-dev's Stats](https://streak-stats.demolab.com/?user=duongnguyen-dev)
