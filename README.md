@@ -16,6 +16,7 @@
 - **LinkedIn:** [duongnguyen-dev](https://www.linkedin.com/in/duong-nguyen-138174233/).
 
 **Open Source Projects:**
+- [zero-shot-object-detection](https://github.com/duongnguyen-dev/zero-shot-object-detection) - End-to-end Serving Zero-Shot Object Detection Service into Google Kubernetes Engine
 - [WhisBot](https://github.com/duongnguyen-dev/WhisBot) -  🤖 Your own AI Voice Assistant  
 
 **Achievements:**
